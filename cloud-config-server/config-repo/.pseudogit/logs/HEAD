@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 cd1661f9ea0d5f1c9937220719a2f503ad7e0686 Dmitrii Nikolaev1 <dmitrii_nikolaev1@epam.com> 1644308244 +0300	commit (initial): Test
+cd1661f9ea0d5f1c9937220719a2f503ad7e0686 61969b94bcc739ee8f7e875ce288809c802dd93c Dmitrii Nikolaev1 <dmitrii_nikolaev1@epam.com> 1644308274 +0300	commit (amend): Test
+61969b94bcc739ee8f7e875ce288809c802dd93c e673b0595e2abd85a4ab41ac553852864c723798 Dmitrii Nikolaev1 <dmitrii_nikolaev1@epam.com> 1644308292 +0300	commit (amend): Test
+e673b0595e2abd85a4ab41ac553852864c723798 ca400756309b2551911cd32ed6e4b4e0de08583f Dmitrii Nikolaev1 <dmitrii_nikolaev1@epam.com> 1644308966 +0300	commit: Add env property
